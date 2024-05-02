@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AboutMeScanner",
+            "request": "launch",
+            "mainClass": "AboutMeScanner",
+            "projectName": "java-terminal_554d3af7"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Filipe",
+                "Moreira dos Santos",
+                "40",
+                "1.76"
+            ]
+        }
+    ]
+}
