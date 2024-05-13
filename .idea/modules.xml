@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" filepath="$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/java-terminal/java-terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meu-primeiro-projeto-java/meu-primeiro-projeto-java.iml" filepath="$PROJECT_DIR$/meu-primeiro-projeto-java/meu-primeiro-projeto-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
+    </modules>
+  </component>
+</project>
