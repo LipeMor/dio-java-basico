@@ -3,6 +3,7 @@ www.dio.me
 
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
+- [Filipe Moreira dos Santos](https://github.com/LipeMor/)
 
 ## Controle de Fluxo - Desafio
 
